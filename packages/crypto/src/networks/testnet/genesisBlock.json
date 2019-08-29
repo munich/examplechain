@@ -2,7 +2,7 @@
   "version": 0,
   "totalAmount": "12500000000000000",
   "totalFee": "0",
-  "reward": 0,
+  "reward": "0",
   "payloadHash": "62099e430b51133ea23e6a2ca2a91cefb16c4d0aa7d24cea673e2415c365b8ba",
   "timestamp": 0,
   "numberOfTransactions": 52,
